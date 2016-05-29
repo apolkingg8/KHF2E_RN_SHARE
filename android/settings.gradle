@@ -1,0 +1,3 @@
+rootProject.name = 'KHF2E_RN_SHARE'
+
+include ':app'
